@@ -1,0 +1,12 @@
+{
+  "490217825": {
+    "itemShortname": "tshirt",
+    "itemDisplayname": "Argyle Scavenger",
+    "permission": "skinner.default"
+  },
+  "3658151069": {
+    "itemShortname": "lmg.m249",
+    "itemDisplayname": "m249 gold",
+    "permission": "skinner.default"
+  }
+}
